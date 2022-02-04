@@ -11,7 +11,8 @@
 		"svelte.svelte-vscode",
 		"andys8.jest-snippets",
 		"christian-kohler.path-intellisense",
-		"silvenon.mdx"
+		"silvenon.mdx",
+		"GraphQL.vscode-graphql"
 	],
 	"unwantedRecommendations": []
 }

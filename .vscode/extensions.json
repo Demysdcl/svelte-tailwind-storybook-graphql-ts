@@ -1,0 +1,17 @@
+{
+	"recommendations": [
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"bradlc.vscode-tailwindcss",
+		"stylelint.vscode-stylelint",
+		"Zignd.html-css-class-completion",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"EditorConfig.EditorConfig",
+		"svelte.svelte-vscode",
+		"andys8.jest-snippets",
+		"christian-kohler.path-intellisense",
+		"silvenon.mdx"
+	],
+	"unwantedRecommendations": []
+}
